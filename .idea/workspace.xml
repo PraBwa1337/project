@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10184d4a-b40a-4b9a-aae5-b8dda95244c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29nNUu3Ba1OLeWfDNUovZTg1R5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/features" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\features" />
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\study" />
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\integration" />
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\concept" />
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Debil\Desktop\sprig\src\images\concept" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10184d4a-b40a-4b9a-aae5-b8dda95244c0" name="Default Changelist" comment="" />
+      <created>1653744908686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653744908686</updated>
+      <workItem from="1653744909777" duration="446000" />
+      <workItem from="1653745372734" duration="2122000" />
+      <workItem from="1654268380903" duration="1781000" />
+      <workItem from="1654270189540" duration="1025000" />
+      <workItem from="1654343571496" duration="1775000" />
+      <workItem from="1654345374602" duration="1266000" />
+      <workItem from="1654366530550" duration="1780000" />
+      <workItem from="1654368335013" duration="555000" />
+      <workItem from="1654411151228" duration="5639000" />
+      <workItem from="1654743866484" duration="5439000" />
+      <workItem from="1654930072624" duration="6229000" />
+      <workItem from="1655015711484" duration="3779000" />
+      <workItem from="1655348188213" duration="2456000" />
+      <workItem from="1655351549523" duration="1766000" />
+      <workItem from="1655396826148" duration="1781000" />
+      <workItem from="1655398631422" duration="1379000" />
+      <workItem from="1655528958078" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="198" y="0" key="SettingsEditor" timestamp="1654411360934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="198" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1654411360934" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1654411152062">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1654411152062" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1654367659527">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1654367659527" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/script.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
